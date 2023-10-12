@@ -7,6 +7,7 @@ import Grid5 from './components/Grid5'
 import Grid6 from './components/Grid6'
 import Grid7 from './components/Grid7'
 import Grid8 from './components/Grid8'
+import Grid9 from './components/Grid9'
 
 
 export const revalidate = 10
@@ -22,6 +23,7 @@ export default function Home() {
       <Grid6 />
       <Grid7 />
       <Grid8 />
+      <Grid9 />
 
       <div className="p-5 mt-2 space-y-5"></div>
 
