@@ -14,7 +14,7 @@ import Link from 'next/link'
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Trademarks and Domain names for sales or lease",
+  title: "Trademarks and Domain names for sale or lease",
   description: "A unique opportunity to buy or lease the following trademarks and domain names",
 };
 
