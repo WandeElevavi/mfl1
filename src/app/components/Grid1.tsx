@@ -2,8 +2,8 @@ import React from 'react'
 
 const App = () => {
   return (
-    <div className='text-5xl h-40 bg-white text-blue-900 px-4 flex items-center justify-center
-                    text-center'>The following trademarks and domain names for sale or lease</div>
+    <div className='font-bold text-3xl h-40 bg-white text-blue-900 px-4 flex items-center justify-center
+                    text-center'>The following trademarks and domain names are for sale or lease</div>
   )
 }
 export default App
